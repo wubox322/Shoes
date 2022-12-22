@@ -1,0 +1,12 @@
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\bin\x86\Debug\kirillShoes.exe.config
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\bin\x86\Debug\kirillShoes.exe
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\bin\x86\Debug\kirillShoes.pdb
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.Form1.resources
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.Properties.Resources.resources
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.Главная_страница.resources
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.Каталог.resources
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.csproj.GenerateResource.cache
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.exe
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.pdb
+C:\Users\vasil\source\repos\kirillShoes\kirillShoes\obj\x86\Debug\kirillShoes.csprojAssemblyReference.cache
